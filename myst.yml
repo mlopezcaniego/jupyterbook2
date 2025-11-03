@@ -59,7 +59,6 @@ project:
         # - file: content/lessons/7_styling.md
         - file: content/lessons/8_init.md
         - file: content/lessons/newfile.md
-
     - file: content/advanced_start.md
     - file: content/software.md
     - file: content/gallery.md
